@@ -1,0 +1,17 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="algoritmos.Tejer" />
+          <option value="algoritmos.actualmente" />
+          <option value="algoritmos.Crear" />
+          <option value="algoritmos.plan" />
+          <option value="algoritmos.un" />
+          <option value="algoritmos.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
